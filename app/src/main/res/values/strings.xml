@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Calculator1</string>
+    <string name="text">15 + 2 = ?</string>
+    <string name="input_the_answer">Input the answer</string>
+    <string name="button">Answer</string>
+    <string name="incorrectText">Your Answer is incorrect</string>
+    <string name="correct_answer">Your answer is correct</string>
 </resources>
